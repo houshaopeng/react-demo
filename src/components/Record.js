@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
 
 class Record extends Component {
+  constructor(){
+    super();
+    this.state = {
+      
+    }
+  }
+
   render() {
     return (
       <div>
