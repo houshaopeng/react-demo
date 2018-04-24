@@ -6,6 +6,7 @@ class Records extends Component {
       <div>
         <h2>Records</h2>
         <div className="table"></div>
+        
         <Record/>  
       </div>
     );
