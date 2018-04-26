@@ -6,7 +6,14 @@ class Records extends Component {
       <div>
         <h2>Records</h2>
         <div className="table"></div>
-        
+        {/* this.state ={
+          constuctor(){
+            super();
+            this.state = {
+              record:'sadasd',
+            }
+          }
+        } */}
         <Record/>  
       </div>
     );
