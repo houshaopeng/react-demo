@@ -13,7 +13,7 @@ class Records extends Component {
         <h2>Records</h2>
         <div className="table"></div>
         
-        <Record/>  
+        <Record/>     
       </div>
     );
   }
