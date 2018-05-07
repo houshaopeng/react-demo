@@ -12,8 +12,8 @@ class Records extends Component {
       <div>
         <h2>Records</h2>
         <div className="table"></div>
-        
-        <Record/>     
+        {/* tody start react demo weihui */}
+        <Record/>
       </div>
     );
   }
