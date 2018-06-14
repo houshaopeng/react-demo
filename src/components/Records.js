@@ -12,7 +12,7 @@ class Records extends Component {
       <div>
         <h2>Records</h2>
         <div className="table"></div>
-        {/* tody start react demo weihuniddayede */}
+        {/* tody start react demo ../ */}
         <Record/>
       </div>
     );
