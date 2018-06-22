@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
+// import ReactDOM from 'react-dom';
 class Detail extends Component {
     render() {
       return (
@@ -12,4 +12,5 @@ class Detail extends Component {
       );
     }
   }
+  export default Detail;
   

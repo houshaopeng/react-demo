@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Record from './Record';
+import Detail from './../Detail';
 class Records extends Component {
   constructor(){
     super();
@@ -14,6 +15,7 @@ class Records extends Component {
         <div className="table">{this.state.record}</div>
         {/* tody start react demo ../ */}
         <Record/>
+        <Detail/>
       </div>
     );
   }
