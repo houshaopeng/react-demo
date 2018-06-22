@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Record from './Record';
 class Records extends Component {
-  constuctor(){
+  constructor(){
     super();
     this.state = {
       record:'sadasd',
@@ -11,7 +11,7 @@ class Records extends Component {
     return (
       <div>
         <h2>Records</h2>
-        <div className="table"></div>
+        <div className="table">{this.state.record}</div>
         {/* tody start react demo ../ */}
         <Record/>
       </div>
