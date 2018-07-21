@@ -5,7 +5,7 @@ class Records extends Component {
   constructor(){
     super();
     this.state = {
-      record:'sadasd',
+      record:'test',
     }
   }
   render() {
