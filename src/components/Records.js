@@ -13,7 +13,7 @@ class Records extends Component {
       <div>
         <h2>Records</h2>
         <div className="table">{this.state.record}</div>
-        {/* start react demo foundgoodjob  shua S6 vueX react redux react-router ant-Design/*/}
+        {/* start react demo ES6 react redux react-router ant-Design/*/}
         <Record/>
         <Detail/>
       </div>
