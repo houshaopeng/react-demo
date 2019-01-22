@@ -7,7 +7,11 @@ class Record extends Component {
       
     }
   }
+<<<<<<< Updated upstream
 
+=======
+  
+>>>>>>> Stashed changes
   render() {
     return (
       <div>
