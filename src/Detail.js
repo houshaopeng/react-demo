@@ -6,7 +6,7 @@ class Detail extends Component {
         <div className="detail">
           
           <p className="">
-                frist page 1.24  happy new year will go home tableData
+                frist page 3.5  Time is fast.
           </p>
         </div>
       );
