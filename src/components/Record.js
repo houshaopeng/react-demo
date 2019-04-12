@@ -4,13 +4,13 @@ class Record extends Component {
   constructor(){
     super();
     this.state = {
-        // where is my fixed bug
+        
     }
   }
   render() {
     return (
       <div>
-        this is a child component
+        this is a child component // where is my fixed bug
         <p className="demo">demo</p>
       </div>
       
