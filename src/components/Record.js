@@ -4,14 +4,9 @@ class Record extends Component {
   constructor(){
     super();
     this.state = {
-      
+        // where is my fixed bug
     }
   }
-<<<<<<< Updated upstream
-
-=======
-  
->>>>>>> Stashed changes
   render() {
     return (
       <div>
