@@ -7,7 +7,7 @@ class Detail extends Component {
           
           <p className="">
                 frist page 4.4  Time is fast. 
-                {/* 5.10 today will go home */}
+                {/* 5.13 Time is so fast */}
           </p>
         </div>
       );
