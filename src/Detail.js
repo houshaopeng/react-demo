@@ -7,7 +7,7 @@ class Detail extends Component {
           
           <p className="">
                 frist page 4.4  Time is fast. 
-                {/* 5.23 qianji天说了 暂时等等看吧 */}
+                {/* 5.23 劣势太多把握住机会 自己努力 */}
           </p>
         </div>
       );
